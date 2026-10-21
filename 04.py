@@ -42,7 +42,7 @@ Remember that split() returns a list, not a string. Therefore, we cannot directl
 '''
 
 
-# some more string methods:
+# some more string methods and their oprations:
 
 # capitalize() : It makes the just the first letter of string uppercase.
 # title() :  It converts the first letter of each word in a string to uppercase and the remaining letters to lowercase.
