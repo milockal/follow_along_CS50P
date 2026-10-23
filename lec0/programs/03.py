@@ -1,4 +1,4 @@
-#understanding the f-strings, r-strings, fr-strings 
+#understanding the f-strings, r-strings, fr-strings .
 
 # An f-string lets us insert variables or expressions directly into a string
 
