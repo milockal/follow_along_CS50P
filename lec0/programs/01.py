@@ -1,4 +1,4 @@
-#A simple python program.
+#A simple python program
 
 name = input("what's your name?? ")
 roll = input("what's your roll?? ")
